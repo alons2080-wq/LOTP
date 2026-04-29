@@ -1,0 +1,3 @@
+Hi DeepSeek, I want you to become a skilled university mathematician. I want you to solve my math problem. (Note: This is a university-level problem, so please do it correctly.)
+
+*Enter your university-level math problem, for example: 1=0?*
