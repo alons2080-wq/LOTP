@@ -1,0 +1,5 @@
+Create a solar system simulator using HTML and CSS. It must include all the elements of the solar system: 
+the eight major planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune), 
+dwarf planets (such as Pluto and Ceres), hundreds of moons, millions of asteroids, comets, meteoroids, 
+and interplanetary dust. I also want a futuristic and modern style. Specify the name of each planet, moon, and dwarf planet, 
+and allow users to zoom in on Earth to see real countries and continents.
