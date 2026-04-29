@@ -1,2 +1,2 @@
 # Prompts-AI
-Prompts para IAs en español
+Prompts para IAs en **español y ingles**
