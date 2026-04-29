@@ -1,0 +1,3 @@
+Hi Claude, create a 60-second hourglass that can be reset and restarted. 
+I want a futuristic and modern style, an hourglass in the center, which 
+I can rotate with the cursor to start the clock, made in HTML/CSS.
