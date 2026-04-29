@@ -1,0 +1,4 @@
+Hi Claude, create a psychological support page in HTML/CSS, a digital 
+refuge designed to accompany you on your difficult days, providing you 
+with self-care tools, emotion tracking, and calming exercises for your 
+mental well-being.
