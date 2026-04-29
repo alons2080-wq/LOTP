@@ -1,0 +1,3 @@
+Hi ChatGPT, I'd like you to create a website that functions as a scientific calculator, a calendar, 
+an IQ tester, and a clock. The website needs to be built using HTML/CSS with an old-fashioned, 
+90s style. Thanks.
