@@ -47,7 +47,7 @@ LOTP aims to be a **central hub** where you can:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Prompts-AI.git
+git clone https://github.com/alons2080-wq/LOTP/tree/main
 ```
 
 Then explore the prompts and use them in your favorite AI tool.
