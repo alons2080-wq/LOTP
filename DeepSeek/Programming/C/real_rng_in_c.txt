@@ -1,0 +1,5 @@
+Hi DeepSeek, I'd like you to create a real random number generator in C, because as 
+many know, a human, a machine, and basically NOTHING (except quantum mechanics) can 
+generate truly random things. However, we can do something close using /dev/urandom to 
+generate random numbers (on Unix-like systems). Using this file, we can make a realistic 
+approximation of something random. Thanks.
