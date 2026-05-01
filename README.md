@@ -1,7 +1,5 @@
 # 🌌 LOTP (Library of the Prompts)
 
-![AI Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 > A curated collection of prompts for AI models in **Spanish 🇪🇸** and **English 🇺🇸**
 
 ---
