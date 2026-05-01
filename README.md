@@ -69,14 +69,6 @@ You can:
 
 ---
 
-## 🏷️ Badges
-
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/Prompts-AI)
-![GitHub stars](https://img.shields.io/github/stars/your-username/Prompts-AI?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/Prompts-AI?style=social)
-
----
-
 ## 📜 License
 
 This project is open for use and modification.
