@@ -81,3 +81,11 @@ Add a license if needed.
 ![Outro GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 > “Good prompts create great AI.”
+
+|| ## Nota personal 
+
+Este mismo readme fue hecho con ChatGPT :0
+
+||
+
+
