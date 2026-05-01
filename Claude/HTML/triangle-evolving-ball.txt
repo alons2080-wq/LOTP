@@ -1,0 +1,6 @@
+Hi Claude, create an HTML/CSS page where a ball starts in the 
+center of a triangle. Each time it hits one of the sides of the 
+triangle, it will gain speed, change color, and add a side to the 
+triangle. Thanks.
+
+Original prompt: https://www.youtube.com/shorts/vVWCvE5ca2s
