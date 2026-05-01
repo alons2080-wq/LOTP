@@ -1,0 +1,157 @@
+Hi Claude, I'd like you to create a code editor. It will 
+function as both a code editor and a game engine (using OpenGL). 
+
+It will support these programming languages:
+
+c
+C++
+C#
+Java
+Python
+JavaScript
+TypeScript
+Go
+rust
+Kotlin
+Swift
+Objective-C
+dart
+PHP
+Ruby
+perl
+Haskell
+scala
+Elixir
+Erlang
+Clojure
+F#
+OCaml
+ReasonML
+Nim
+Zig
+Crystal
+V
+Assembly
+Bash
+PowerShell
+groovy
+Julia
+MATLAB
+R
+Fortran
+COBOL
+Adam
+lisp
+scheme
+Prolog
+Smalltalk
+Tcl
+Awk
+Hack
+Solidity
+VHDL
+Verilog
+SystemVerilog
+PostScript
+ActionScript
+AutoHotkey
+Q#
+Grid
+Rebol
+Pony
+chapel
+Pascal
+Delphi
+PureScript
+Idris
+Agda
+coq
+Lean
+Io
+Pike
+Rackets
+Squirrel
+OR nicon
+Wolfram
+zsh
+Apex
+GAMS
+J.
+K
+mercury
+Mirah
+Nemerle
+NetLogo
+OpenSCAD
+Processing
+QML
+Self
+SML
+SuperCollider
+Vala
+XQuery
+YAML
+ABAP
+APL
+AspectJ
+Ballerina
+Boo
+Ceylon
+ChucK
+clean
+Dylan
+elm
+eiffel
+Fort
+GLSL
+GML
+Gosu
+hax
+HCL
+IDL
+Inform
+Joy
+LabVIEW
+Lingo
+Lua
+M4
+Maple
+Modelica
+Modula-2
+Oberon
+OpenQASM
+Oz
+P4
+PL/SQL
+PowerBuilder
+Prolog
+Pure
+Rexx
+Ring
+SAS
+Scratch
+Simula
+SNOBOL
+SQL
+Stata
+Turing
+VBA
+VBScript
+WebAssembly
+Whiley
+X++
+YACC
+ZigLang
+Lang and all its versions.
+
+The code editor will have an integrated terminal 
+(PowerShell or CMD for Windows, and BASH or ZSH, or 
+whichever is installed, for Linux).
+
+This code editor will have a modern and futuristic 
+UI and UX; its colors will be: dark gray, navy blue, 
+and aqua green. Another feature of our code editor 
+is its compatibility with Windows and Unix-like systems. 
+You'll also be able to run any code without 
+compiling—just one click and you're done. 
+It will also be very lightweight. Thank you.
