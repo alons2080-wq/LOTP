@@ -82,6 +82,8 @@ Add a license if needed.
 
 > “Good prompts create great AI.”
 
+---
+
 ## Nota personal 
 
 Este mismo readme fue hecho con ChatGPT :0
