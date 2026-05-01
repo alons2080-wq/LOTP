@@ -1,0 +1,5 @@
+Hi DeepSeek, write a Python script using PyGame and OpenGL to simulate  a realistic 
+Black Hole with an accretion disk an gravitational lensing effects. Use GLSL shaders 
+for the evente horizon rendering. Make it visually stunning. Thanks
+
+Original Prompt: https://www.youtube.com/shorts/2VCBft7HH5M
