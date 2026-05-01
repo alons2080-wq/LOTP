@@ -1,0 +1,19 @@
+Hi Claude, I want you to make a 2D game (basically 
+Age of Empires II: The Conquerors 2D) in C and C++. 
+The game requirements are: a detailed story, based 
+on a medieval era, LAN multiplayer, single player, 
+90s style, start menu (options: single player, LAN 
+multiplayer, and stories), resource bar, evolutionary 
+ages (High Middle Ages, Founding Age, Castle Age, 
+Imperial Age, and Inquisition Age; the latter is only 
+available for Spain and France), basic resources (food, 
+water, money, population), population limit (you start 
+with 8 and the limit is 320), genders (male and female), 
+life objective (to be born, reproduce, and die; this 
+applies to every mammal in the game), jobs for villagers 
+(carpenter, stonemason, gold miner, farmer, hunter, and priest), 
+animals (pig, cow, and sheep), and different nations (Spain, 
+France, England, the United Kingdom, China, and the... Roman Empire), 
+keyboard shortcuts, spirit mode (enter a villager's body to control it), 
+chat and commands and cheats. The game will run on Linux and Windows. 
+It will be compiled using GCC and G++. Thank you.
