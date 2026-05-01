@@ -1,0 +1,3 @@
+Hello ChatGPT, write a single self-contained HTML file (with embedded CSS and JavaScript) 
+that recreates the game of PING PONG. The game must have a modern and futuristic style, 
+accompanied by animations and neon colors. Thanks
