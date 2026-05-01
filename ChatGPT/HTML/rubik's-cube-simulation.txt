@@ -1,0 +1,6 @@
+Hi ChatGPT, create a single HTML file containing a 
+fully functional 3D Rubik's Cube simulation using 
+Three.js (via CDN). The cube must be able to 
+automatically solve itself. Thanks
+
+Original Prompt: https://www.youtube.com/shorts/fn5PwOK4Mo8
