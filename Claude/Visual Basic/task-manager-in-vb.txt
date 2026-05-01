@@ -1,0 +1,10 @@
+Hi Claude, I need you to create a task manager application in 
+Microsoft Visual Basic. It should have three tabs on the left: 
+Processes, Performance, and Startup Applications. The program 
+should be able to end, expand, and create new tasks or processes. 
+The application will detect the PC's local language for translation 
+(if it's Spanish, then the application will be in Spanish). It should 
+have a 90s-style UI and UX. The application must be able to run on 
+both Unix-like systems and Microsoft operating systems. It should also 
+be compiled into an AppImage and run for Unix-like systems, 
+and an executable file (.exe) for Microsoft systems. Thanks.
