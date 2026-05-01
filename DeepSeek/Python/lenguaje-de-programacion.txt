@@ -1,0 +1,12 @@
+Hola DeepSeek, quiero que hagas un lenguaje de programacion
+desde cero con Python, el lenguaje de programacion tiene que
+tener una sintaxis estilo C pero teniendo una sintaxis de
+lenguajes como Java o Python, este lenguaje tiene que tener
+funciones basicas como: flujos, bucles, condicionales, 
+operadores y funciones, el lenguaje tendra su propio
+compilador para sistemas tipo Unix y Windows, el cual
+convertira el codigo original a codigo maquina (y si
+es Windows pues convertira el codigo original a un 
+ejecutable), el lenguaje sera el mejor traductor para que
+un humano hable con el procesador (manteniendo su sintaxis 
+estilo C). Gracias
