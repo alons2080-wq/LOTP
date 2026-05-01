@@ -1,0 +1,5 @@
+Hi Claude, I'd like you to compare the advantages and disadvantages of Visual Studio 
+Code and Cursor. Explain each of their pros and cons, give me a detailed explanation 
+of what each was created for and its history, and finally give me a conclusion on 
+which of the two is better, taking into account these points: integrated AI, price, 
+quality, UI and UX, language support, and Spanish translation. Thanks.
